@@ -1,0 +1,44 @@
+c:\users\minsung\documents\visual studio 2015\Projects\CScritC\CScritC\bin\Debug\CScritC.exe.config
+c:\users\minsung\documents\visual studio 2015\Projects\CScritC\CScritC\bin\Debug\CScritC.exe
+c:\users\minsung\documents\visual studio 2015\Projects\CScritC\CScritC\bin\Debug\CScritC.pdb
+c:\users\minsung\documents\visual studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.csprojResolveAssemblyReference.cache
+c:\users\minsung\documents\visual studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.Main.resources
+c:\users\minsung\documents\visual studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.Properties.Resources.resources
+c:\users\minsung\documents\visual studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.csproj.GenerateResource.Cache
+c:\users\minsung\documents\visual studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.exe
+c:\users\minsung\documents\visual studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.pdb
+c:\users\minsung\documents\visual studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.B1.resources
+C:\Users\MinSung\documents\visual studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.A1.resources
+C:\Users\MinSung\documents\visual studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.A2.resources
+C:\Users\MinSung\documents\visual studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.A3.resources
+C:\Users\MinSung\documents\visual studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.C1.resources
+C:\Users\MinSung\documents\visual studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.D1.resources
+C:\Users\MinSung\Documents\Visual Studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.B2.resources
+C:\Users\MinSung\Documents\Visual Studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.B3.resources
+C:\Users\MinSung\Documents\Visual Studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.B4.resources
+C:\Users\MinSung\Documents\Visual Studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.B5.resources
+C:\Users\MinSung\documents\visual studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.C2.resources
+C:\Users\MinSung\documents\visual studio 2015\Projects\CScritC\CScritC\obj\Debug\CScritC.C3.resources
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\bin\Debug\CScritC.exe.config
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\bin\Debug\CScritC.exe
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\bin\Debug\CScritC.pdb
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.csproj.AssemblyReference.cache
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.csproj.SuggestedBindingRedirects.cache
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.A1.resources
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.A2.resources
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.A3.resources
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.B1.resources
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.B2.resources
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.B3.resources
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.B4.resources
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.B5.resources
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.C1.resources
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.C2.resources
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.D1.resources
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.C3.resources
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.Main.resources
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.Properties.Resources.resources
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.csproj.GenerateResource.cache
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.csproj.CoreCompileInputs.cache
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.exe
+C:\Users\saimi\Desktop\DesktopPreDell\CSIA minsung\CScritC\obj\Debug\CScritC.pdb

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CScritC.A1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAgCAABBAAABSAAAACAMA4AAoAAHAMAAAAAAA=</HashCode>
+      <FileName>A1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScritC.A2" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAQIAAAACAAABAAAACAAAACAAAAAAAQABAgIAAAEAA=</HashCode>
+      <FileName>A2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScritC.A3" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAwAAAAAGAAABAAAACAAAACAAAYAAAAgGBAAEAABQA=</HashCode>
+      <FileName>A3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScritC.B1" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAABADAEAgAABACAAAECAMg4AAAAAHQECAAAAAA=</HashCode>
+      <FileName>B1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScritC.B2" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAIBAAAGBAAhUAAACAAAACAAAYAAAAAGAAAAAACAA=</HashCode>
+      <FileName>B2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScritC.B3" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAEAACAAABAAABCAAAACAcA4AEAAAHAMAAAAAAA=</HashCode>
+      <FileName>B3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScritC.B4">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACUAACAAABAAAACAAAACAAQ4AAIAAEAAAAAAAAA=</HashCode>
+      <FileName>B4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScritC.B5" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAACBCAABCAAAACAUA4AAAAAGAIAAAAAAA=</HashCode>
+      <FileName>B5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScritC.C1" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAQAAAACAAAACAAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>C1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScritC.C2" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAEAACAAAAAAAACAAAACAAA4AAIAAAAAAAAAAAA=</HashCode>
+      <FileName>C2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScritC.C3" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAEAACAAABAAAACAAAACAAAAAAIAAAQAAAAAAAA=</HashCode>
+      <FileName>C3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScritC.Confirm" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAAAAHEAAAAAAAA=</HashCode>
+      <FileName>Confirm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScritC.D1" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAABAQAACAAAACAAAAAAAIgAAAAAEAAAA=</HashCode>
+      <FileName>D1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScritC.Lesson" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAgQAAAAAIAAAAAgUAgIAAAAAAAAAAQA=</HashCode>
+      <FileName>Lesson.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CScritC.Main">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEgQAgAoCAAAAgAAAigfwECEQAAQAQAAYAABAAAwQY=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScritC.Program" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScritC.Student" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAQgQAQAAAAAAAAAAEAAAAQAAEAkAIAgA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CScritC.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CScritC.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Malgun Gothic" Size="9" />
+</ClassDiagram>
